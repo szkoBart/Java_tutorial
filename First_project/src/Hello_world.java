@@ -15,6 +15,14 @@ public class Hello_world {
 		intList = new int[10];
 		intList[0] = 5;
 		intList[1] = 15;
+		int[] newList = {1,8,3,9};
+		String[] names = new String[5];
+		names[0] = "Max";
+		names[1] = "Bartek";
+		names[2] = "King";
+		names[3] = "Ola";
+		names[4] = "Will";
+		System.out.println(names[2]);
 	}
 
 }
