@@ -20,8 +20,8 @@ public class Operators {
 		boolean f = false;
 		System.out.println(t||f);
 		System.out.println(t&&f);
-		System.out.println();
-		System.out.println();
+		System.out.println(!f);
+		System.out.println(a<b&&t);
 	}
 
 }
