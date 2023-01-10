@@ -13,6 +13,12 @@ public class Operators {
 		int c= 0;
 		c++;
 		System.out.println(c);
+		System.out.println(a<b);
+		System.out.println(b<a);
+		System.out.println((a*b)<=5);
+		boolean t = true;
+		boolean f = false;
+		
 	}
 
 }
