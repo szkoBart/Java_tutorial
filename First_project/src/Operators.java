@@ -18,7 +18,10 @@ public class Operators {
 		System.out.println((a*b)<=5);
 		boolean t = true;
 		boolean f = false;
-		
+		System.out.println(t||f);
+		System.out.println(t&&f);
+		System.out.println();
+		System.out.println();
 	}
 
 }
